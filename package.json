@@ -1,0 +1,17 @@
+{
+  "name": "krayenhoff-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-geojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "axios": "^0.18.0",
+    "csv-parser": "^2.2.0",
+    "highland": "^2.13.3"
+  }
+}
